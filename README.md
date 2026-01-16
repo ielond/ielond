@@ -8,6 +8,9 @@ I’m a technology leader and software developer with a focus on automation, dig
 🔗 https://linguaverseschool.com  
 📘 Public methodology & documentation: https://github.com/ielond/linguaverse-public
 
+> The public documentation explains the learning methodology and design principles behind LinguaVerseSchool.  
+> The production platform itself is proprietary.
+
 ### Interests
 - Language learning and self-study design
 - AI-assisted content pipelines
