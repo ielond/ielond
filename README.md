@@ -5,7 +5,8 @@ I’m a technology leader and software developer with a focus on automation, dig
 ### Current project
 - **LinguaVerseSchool** — a language-learning platform built around CEFR-aligned graded stories with integrated audio, designed to help learners progress smoothly from A1 to C1.
 
-🔗 https://linguaverseschool.com
+🔗 https://linguaverseschool.com  
+📘 Public methodology & documentation: https://github.com/ielond/linguaverse-public
 
 ### Interests
 - Language learning and self-study design
